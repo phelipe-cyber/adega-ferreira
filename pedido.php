@@ -94,7 +94,7 @@ $usuario = $_SESSION['usuario'];
                                                         <span class="fas fa-user"></span>
                                                     </div>
                                                 </div>
-                                                <input name="nome_cliente" id="nome_cliente" type="text" class="form-control" placeholder="Nome Cliente" autofocus="autofocus">
+                                                <input name="nome_cliente" id="nome_cliente" type="text" class="form-control" placeholder="Nome Cliente" autofocus="autofocus" required >
                                                 <input name="pedido_novo" type="hidden" value="<?php echo $pedido ?>" class="form-control">
 
                                             </div>
