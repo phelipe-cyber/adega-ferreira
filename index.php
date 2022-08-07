@@ -7,7 +7,7 @@ include('Header_CSS_JS.php');
 <html lang="pt-br">
 <div class="text-center">
     <br>
-    <a class="logo"><img src="/images-on-off/adega_logo.png" height="300" width="370">
+    <a class="logo"><img src="/images-on-off/adega_logo_ferreira.png" height="300" width="370">
 </div>
 
 <head>
@@ -23,7 +23,7 @@ include('Header_CSS_JS.php');
             <div class="modal-header">
                 <div class="text-center">
                     <br>
-                    <a class="logo"><img src="/images-on-off/adega_logo.png" height="200" width="280">
+                    <a class="logo"><img src="/images-on-off/adega_logo_ferreira.png" height="200" width="280">
                 </div>
                 <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
