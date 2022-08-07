@@ -14,7 +14,7 @@ include('Header_CSS_JS.php');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="55mCEseQqQxO8J2a4wE3Rrg3ghJl0lwWM34I49Ed">
-    <title>LOGIN ADEGA SC</title>
+    <title>LOGIN ADEGA FERREIRA</title>
 </head>
 
 <div class="modal fade" id="modal-default">
