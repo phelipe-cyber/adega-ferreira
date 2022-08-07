@@ -5,6 +5,8 @@ include('Header_CSS_JS.php');
 ?>
 
 <html lang="pt-br">
+<link rel="shortcut icon"  href="/images-on-off/icone.ico"><!--este comando muda o icone da janela-->
+
 <div class="text-center">
     <br>
     <a class="logo"><img src="/images-on-off/adega_logo_ferreira.png" height="300" width="370">
