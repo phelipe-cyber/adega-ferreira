@@ -17,6 +17,8 @@ $datahora = (date('H:i:s d-m-Y'));
 
 ?>
 <html>
+<link rel="shortcut icon"  href="/images-on-off/icone.ico"><!--este comando muda o icone da janela-->
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
