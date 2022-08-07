@@ -5,17 +5,17 @@ include('Header_CSS_JS.php');
 ?>
 
 <html lang="pt-br">
-<link rel="shortcut icon"  href="/images-on-off/icone.ico"><!--este comando muda o icone da janela-->
-
-<div class="text-center">
-    <br>
-    <a class="logo"><img src="/images-on-off/adega_logo_ferreira.png" height="300" width="370">
-</div>
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="csrf-token" content="55mCEseQqQxO8J2a4wE3Rrg3ghJl0lwWM34I49Ed">
+    
+    <div class="text-center">
+        <br>
+        <a class="logo"><img src="/images-on-off/adega_logo_ferreira.png" height="300" width="370">
+    </div>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="55mCEseQqQxO8J2a4wE3Rrg3ghJl0lwWM34I49Ed">
+        <link rel="shortcut icon"  href="/images-on-off/icone.ico"><!--este comando muda o icone da janela-->
     <title>LOGIN ADEGA FERREIRA</title>
 </head>
 
