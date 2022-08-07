@@ -1,4 +1,6 @@
 <!-- Select2 -->
+<link rel = "shortcut icon" type = "imagem/x-icon" href = "/images-on-off/icone.ico"/>
+
 <link rel="stylesheet" href="plugins/select2/css/select2.min.css">
 <link rel="stylesheet" href="plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
 
