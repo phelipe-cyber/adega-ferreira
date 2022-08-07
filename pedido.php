@@ -154,15 +154,17 @@ $usuario = $_SESSION['usuario'];
                                 </div>
 
                             </div>
-                            <div class="container">
+                            <!-- <div class="container">
                                 <div class="fixo"></div>
-                            </div>
+                            </div> -->
                             <style>
                                 .fixo {
                                     width: 774px;
                                     height: 40px;
                                     /* background: #E0FFFF; */
                                     position: fixed;
+                                    
+
                                     top: 85%;
                                     /* background-color: white; */
                                     /* color: gold; */
